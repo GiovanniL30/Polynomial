@@ -9,7 +9,7 @@ import java.util.Scanner;
  * input validation and displays the results of the operations.
  *
  * @author Giovanni M. Leo
- * @since October 4, 2023
+ * @since October 5, 2023
  */
 public class PolynomialArithmetic {
     private final Scanner sc = new Scanner(System.in);

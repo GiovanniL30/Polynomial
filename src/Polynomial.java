@@ -4,7 +4,7 @@
  * subtraction, multiplication, division, and evaluation.
  *
  * @author Giovanni M. Leo
- * @since October 4, 2023
+ * @since October 5, 2023
  */
 
 import java.util.LinkedList;
